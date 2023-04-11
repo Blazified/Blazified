@@ -1,7 +1,18 @@
+<!--
+Refs and other here
+https://pbs.twimg.com/media/FL2M82SXIAECRID?format=jpg&name=large
+-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+# Testing <i class="fa-solid fa-cloud"></i>
+
+## Socials
+
+<i class="fa-brands fa-twitter"> Test </i> Test
+
 - 👋 Hi, I’m @Blazified
 - 👀 I’m interested in games
-- 🌱 I’m currently learning everything i can find
-- 💞️ I’m looking to collaborate on games and other cool apps
+- 🌱 I’m currently learning everything I can find
 - 📫 How to reach me: https://twitter.com/KyleJ_A29
 
 <!---
